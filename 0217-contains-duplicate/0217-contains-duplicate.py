@@ -1,8 +1,7 @@
+import collections as cl
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        rem = set()
-        for i in nums:
-            if i in rem:
+        c=cl.Counter(nums)
+        for k,v in c.items():
+            if v>1:
                 return True
-            rem.add(i)
-        return False
