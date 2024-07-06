@@ -1,7 +1,6 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         rem = {}
-        li = []
         for i in nums:
             if i in rem.keys():
                 rem[i] = rem[i] + 1
