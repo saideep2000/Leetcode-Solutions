@@ -27,3 +27,23 @@ I've used the following resources to aid in my learning and solution development
 ## Contributing
 
 While this repository is primarily for my own use as I prepare for software engineering interviews, feedback and suggestions are welcome. Feel free to fork this repository and submit pull requests or create issues if you have suggestions or find errors.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+<!---LeetCode Topics End-->
