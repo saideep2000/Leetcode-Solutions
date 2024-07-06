@@ -11,6 +11,8 @@ Each folder in this repository corresponds to a specific LeetCode problem. Insid
 
 ## Tracking Solved Problems
 
+**[LeetCode Profile](https://leetcode.com/u/saideepsamineni/)**
+
 **[My Roadmap](https://docs.google.com/spreadsheets/d/1TO6e3YGQr75UjusqOpw4--3pEgeTHkySqmvzNdowIBk/edit?usp=sharing)**
 
 ## Resources
@@ -20,6 +22,7 @@ I've used the following resources to aid in my learning and solution development
 - [Awesome LeetCode Resources on GitHub](https://github.com/ashishps1/awesome-leetcode-resources?tab=readme-ov-file)
 - [LeetCode Patterns YouTube Playlist](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [NeetCode 150 YouTube Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
+- [Neetcode.io](https://neetcode.io/practice)
 
 ## Contributing
 
