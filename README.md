@@ -80,4 +80,12 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1642-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
