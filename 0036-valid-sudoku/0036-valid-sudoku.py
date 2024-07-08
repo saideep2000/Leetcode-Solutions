@@ -5,7 +5,6 @@ class Solution:
         s = collections.defaultdict(set)
         for i in range(0,9):
             for j in range(0,9):
-                print(s)
                 if board[i][j] == ".":
                     continue
                 elif board[i][j] in row[i] or board[i][j] in col[j] or board[i][j] in s[str(i//3) + " "+str(j//3)]:
