@@ -4,7 +4,7 @@ class Solution:
         while i < j:
             if numbers[i] + numbers[j] == target:
                 return [i+1, j+1]
-            if numbers[i] + numbers[j] > target:
+            elif numbers[i] + numbers[j] > target:
                 j = j - 1
             else:
                 i = i + 1
