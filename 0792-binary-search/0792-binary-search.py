@@ -1,13 +1,8 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        # if len(nums) == 1:
-        #     if nums[0] == target:
-        #         return 0
-        #     else:
-        #         return -1
+
         l = 0
         h = len(nums)-1
-     
         while l <= h:
             m = (h+l)//2
             if nums[l] == target:
@@ -16,14 +11,11 @@ class Solution:
                 return h
             if nums[m] == target:
                 return m
-                
             if nums[m] > target:
                 h = m - 1
                 l = l + 1
             else:
                 l = m + 1
                 h = h - 1
-
-
 
         return -1
