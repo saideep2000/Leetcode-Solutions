@@ -1,16 +1,15 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        if len(nums) == 1:
-            if nums[0] == target:
-                return 0
-            else:
-                return -1
+        # if len(nums) == 1:
+        #     if nums[0] == target:
+        #         return 0
+        #     else:
+        #         return -1
         l = 0
         h = len(nums)-1
-        m = math.floor((h+l)/2)
-        i=1
+     
         while l <= h:
-            print(i)
+            m = (h+l)//2
             if nums[l] == target:
                 return l
             if nums[h] == target:
@@ -24,10 +23,7 @@ class Solution:
             else:
                 l = m + 1
                 h = h - 1
-            m = math.floor((h+l)/2)
 
-            i=+1
 
-        # if nums[l] == target:
-        #     return l
+
         return -1
