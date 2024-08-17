@@ -13,6 +13,6 @@ class Solution:
         return False
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         for i in range(0,len(matrix)):
-            if target >= matrix[i][0] and target <= matrix[i][len(matrix[i])-1]:
+            if target <= matrix[i][len(matrix[i])-1]:
                 return Solution.binarySearch(target, matrix[i])
         return False
