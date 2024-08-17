@@ -28,6 +28,6 @@ class Solution:
 
             i=+1
 
-        if nums[l] == target:
-            return l
+        # if nums[l] == target:
+        #     return l
         return -1
