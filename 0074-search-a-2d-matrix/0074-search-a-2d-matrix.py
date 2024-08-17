@@ -12,7 +12,14 @@ class Solution:
                 l = m + 1
         return False
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        for i in range(0,len(matrix)):
-            if target <= matrix[i][len(matrix[i])-1]:
-                return Solution.binarySearch(target, matrix[i])
-        return False
+        top = 0
+        bottom = len(matrix)-1
+        while top <= bottom:
+            row = (top+bottom)//2
+            if target >= matrix[row][0] and target <= matrix[row][-1]:
+                return Solution.binarySearch(target, matrix[row])
+            elif matrix[row][0] > target:
+                bottom = row - 1
+            else:
+                top = row + 1
+        return False 
