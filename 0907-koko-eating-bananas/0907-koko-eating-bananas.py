@@ -6,15 +6,15 @@ class Solution:
         return sum
     
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        lo = 0
+        lo = 1
         hi = max(piles)
         rem = 0
         while lo <= hi:
             m = (lo+hi)//2
-            if Solution.maths(m+1, piles) <= h:
-                rem = m+1
+            if Solution.maths(m, piles) <= h:
+                rem = m
                 hi = m - 1
-            elif Solution.maths(m+1, piles) > h:
+            elif Solution.maths(m, piles) > h:
                 lo = m + 1
         return rem
             
