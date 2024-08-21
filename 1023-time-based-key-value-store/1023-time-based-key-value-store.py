@@ -16,11 +16,11 @@ class TimeMap:
             m = (l+r)//2
             if values[m][1] == timestamp:
                 return values[m][0]
-            elif values[m][1] > timestamp:
-                r = m - 1
-            else:
+            if values[m][1] <= timestamp:
                 rem = values[m][0]
                 l = m + 1
+            else:
+                r = m - 1
         return rem
 
 
