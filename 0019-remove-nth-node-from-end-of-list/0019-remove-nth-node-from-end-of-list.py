@@ -17,8 +17,6 @@ class Solution:
             else:
                 slow = slow.next
                 fast = fast.next
-        print(slow)
-        print(fast)
         if slow == fast:
             return None
         if fast == None:
