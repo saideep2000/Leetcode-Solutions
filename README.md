@@ -121,6 +121,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0015-3sum](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -146,6 +147,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | ------- |
 | [0020-valid-parentheses](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -163,10 +165,12 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
