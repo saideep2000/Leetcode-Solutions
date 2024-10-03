@@ -1,12 +1,9 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
         l = s.split(" ")
-        print(l)
-        l.reverse()
-        print(l)
         f = ""
-        for i in l:
-            if i != '':
-                f = f + i + " "
+        for i in range(len(l)-1, -1, -1):
+            if l[i] != '':
+                f = f + l[i] + " "
         f = f[:len(f)-1]
         return f
