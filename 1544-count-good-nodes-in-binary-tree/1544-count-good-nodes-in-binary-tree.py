@@ -13,9 +13,7 @@ class Solution:
             if root.val >= maxi:
                 count = count + 1
             maxi = max(root.val, maxi)
-            temp1 = Solution.rec(self, root.left, maxi)
-            temp2 = Solution.rec(self, root.right, maxi)
-            count = count + temp1 + temp2
+            count = count + Solution.rec(self, root.left, maxi) + Solution.rec(self, root.right, maxi)
             return count
         else:
             return 0
