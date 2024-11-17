@@ -15,11 +15,7 @@ class Solution:
         if root.val >= maxx or root.val <= minn:
             return False
         temp1 = Solution.rec(self, root.left, minn, min(maxx, root.val))
-        if temp1 == False:
-            return False
         temp2 = Solution.rec(self, root.right, max(minn, root.val), maxx)
-        if temp2 == False:
-            return False
         if temp1 and temp2:
             return True
         else:
