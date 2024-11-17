@@ -8,12 +8,12 @@ class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
         temp = []
         temp = Solution.rec(self, root, temp)
-        temp = sorted(temp)
+        # temp = sorted(temp)
         return temp[k-1]
     def rec(self, root, temp):
         if root == None:
             return temp
         temp = Solution.rec(self, root.left, temp)
-        temp = Solution.rec(self, root.right, temp)
         temp.append(root.val)
+        temp = Solution.rec(self, root.right, temp)
         return temp
