@@ -87,6 +87,7 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -170,6 +171,7 @@ While this repository is primarily for my own use as I prepare for software engi
 ## Design
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## Linked List
 |  |
@@ -203,6 +205,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -242,6 +245,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -257,4 +261,9 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0098-validate-binary-search-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
