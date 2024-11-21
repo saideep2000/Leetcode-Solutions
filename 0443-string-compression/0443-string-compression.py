@@ -20,10 +20,10 @@ class Solution:
                             chars[curr+1] = temp[now]
                             curr = curr+1
                             now = now + 1
-                        curr = curr - 1
                     else:
                         chars[curr+1] = temp
-                    curr = curr + 2
+                        curr = curr + 1
+                    curr = curr + 1
                 else:
                     chars[curr] = chars[i]
                     curr = curr + 1
