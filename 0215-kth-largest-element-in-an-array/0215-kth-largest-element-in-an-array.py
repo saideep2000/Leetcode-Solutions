@@ -9,4 +9,3 @@ class Solution:
             return abs(store[0])
         else:
             return -store[0]
-        return abs(store[0])
