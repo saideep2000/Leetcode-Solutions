@@ -40,6 +40,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0042-trapping-rain-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -295,4 +296,12 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
