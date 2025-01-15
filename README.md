@@ -38,6 +38,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0033-search-in-rotated-sorted-array](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -301,6 +302,7 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
