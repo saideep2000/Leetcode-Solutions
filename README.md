@@ -174,6 +174,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | ------- |
 | [0011-container-with-most-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [2509-minimize-xor](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -308,4 +309,5 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [0078-subsets](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0078-subsets) |
+| [2509-minimize-xor](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 <!---LeetCode Topics End-->
