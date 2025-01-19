@@ -44,6 +44,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0049-group-anagrams](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -81,6 +82,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0003-longest-substring-without-repeating-characters](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -136,6 +138,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | ------- |
 | [0036-valid-sudoku](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -243,6 +246,7 @@ While this repository is primarily for my own use as I prepare for software engi
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -310,6 +314,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0040-combination-sum-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
