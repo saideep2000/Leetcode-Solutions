@@ -20,7 +20,7 @@ class Solution:
                 return
             curr = tele[digits[index]]
             for i in range(0, len(curr)):
-                combo = copy.deepcopy(subsetStr)
+                combo = subsetStr
                 combo = combo + curr[i]
                 backtrack(index+1, combo)
         backtrack(0, "")
