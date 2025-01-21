@@ -72,6 +72,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0128-longest-consecutive-sequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -88,6 +89,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0125-valid-palindrome](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [1023-time-based-key-value-store](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
@@ -209,6 +211,7 @@ While this repository is primarily for my own use as I prepare for software engi
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
@@ -334,4 +337,8 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
