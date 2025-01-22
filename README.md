@@ -62,6 +62,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0907-koko-eating-bananas](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
+| [1876-map-of-highest-peak](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1909-buildings-with-an-ocean-view](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -152,6 +153,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0200-number-of-islands](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0286-walls-and-gates) |
 | [0695-max-area-of-island](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [1876-map-of-highest-peak](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 ## Math
 |  |
 | ------- |
@@ -293,6 +295,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0286-walls-and-gates](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0286-walls-and-gates) |
 | [0695-max-area-of-island](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1876-map-of-highest-peak](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 ## Binary Tree
 |  |
 | ------- |
