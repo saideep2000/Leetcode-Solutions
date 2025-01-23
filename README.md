@@ -62,6 +62,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0792-binary-search](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1876-map-of-highest-peak](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1909-buildings-with-an-ocean-view](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1909-buildings-with-an-ocean-view) |
@@ -155,6 +156,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0286-walls-and-gates](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0286-walls-and-gates) |
 | [0542-01-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1876-map-of-highest-peak](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 ## Math
 |  |
@@ -298,6 +300,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0286-walls-and-gates](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0286-walls-and-gates) |
 | [0542-01-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 ## Binary Tree
