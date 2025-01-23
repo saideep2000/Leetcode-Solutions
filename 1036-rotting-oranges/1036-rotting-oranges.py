@@ -27,7 +27,6 @@ class Solution:
                         qu.append((x+dx, y+dy))
                         f = f + 1
             l = l + 1
-        print(fresh, f)
         if fresh == 0:
             return 0
         elif fresh - f == 0:
