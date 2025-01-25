@@ -1,10 +1,10 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
 
-        rem = [[0] * numCourses for _ in range(numCourses)]
-
-        for dx, dy in prerequisites:
-            rem[dx][dy] = 1
+        # Build adjacency list
+        graph = defaultdict(list)
+        for course, prereq in prerequisites:
+            graph[prereq].append(course)
         
         vi = [0] * numCourses
 
@@ -14,10 +14,9 @@ class Solution:
             if vi[x] == 2:
                 return True
             vi[x] = 1
-            for k in range(0,numCourses):
-                if rem[x][k] == 1:
-                    if not dfs(k):
-                        return False
+            for k in graph[x]:
+                if not dfs(k):
+                    return False
             vi[x] = 2
             return True
 
