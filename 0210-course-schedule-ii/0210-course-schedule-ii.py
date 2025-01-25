@@ -21,7 +21,8 @@ class Solution:
             return True
 
         for i in range(0,numCourses):
-            if not dfs(i):
-                return []
+            if i not in final:
+                if not dfs(i):
+                    return []
 
         return final
