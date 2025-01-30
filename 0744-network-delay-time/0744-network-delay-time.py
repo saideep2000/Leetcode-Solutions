@@ -2,6 +2,7 @@ class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
         graph = defaultdict(list)
         visited = defaultdict(int)
+        m = 0
 
         for i, j, r in times:
             graph[i].append([j,r])
@@ -18,8 +19,9 @@ class Solution:
 
             for s,est in graph[now]:
                 heapq.heappush(qu, (est+time, s))
+            m = max(time, m)
 
         if len(visited) != n:
             return -1
 
-        return max(visited.values())
+        return m
