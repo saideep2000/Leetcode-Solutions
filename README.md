@@ -67,6 +67,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [1036-rotting-oranges](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1396-count-servers-that-communicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1706-min-cost-to-connect-all-points](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1876-map-of-highest-peak](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1909-buildings-with-an-ocean-view](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -188,6 +189,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0684-redundant-connection](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1706-min-cost-to-connect-all-points](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Two Pointers
 |  |
 | ------- |
@@ -415,6 +417,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0684-redundant-connection](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0744-network-delay-time) |
+| [1706-min-cost-to-connect-all-points](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -424,4 +427,8 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0744-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
