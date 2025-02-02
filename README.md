@@ -62,6 +62,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0542-01-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0747-min-cost-climbing-stairs](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -231,6 +232,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0542-01-matrix) |
+| [0747-min-cost-climbing-stairs](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Stack
 |  |
