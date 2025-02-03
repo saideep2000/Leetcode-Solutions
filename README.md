@@ -53,6 +53,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -231,6 +232,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0070-climbing-stairs](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
