@@ -5,6 +5,7 @@ class Solution:
             if n < 0:
                 return 0
             if 0 <= n <=1:
+                hm[n] = nums[n]
                 return nums[n]
             ans = 0
             for i in range(0,n-1):
