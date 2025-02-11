@@ -1,7 +1,10 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        rem = {}
+        h = collections.defaultdict()
         for i in range(0,len(nums)):
-            if target-nums[i] in rem.keys():
-                return [i, rem[target-nums[i]]]
-            rem[nums[i]] = i
+            h[nums[i]] = i
+        print(h)
+        for i in range(0,len(nums)):
+            complement = target - nums[i]
+            if complement in h and i != h[complement]:
+                return [i, h[complement]]
