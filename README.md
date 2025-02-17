@@ -76,6 +76,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [1876-map-of-highest-peak](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1909-buildings-with-an-ocean-view](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2792-neighboring-bitwise-xor](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 ## Hash Table
 |  |
@@ -97,6 +98,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0621-task-scheduler](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 ## String
 |  |
 | ------- |
@@ -124,6 +126,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0347-top-k-frequent-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -216,6 +219,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0151-reverse-words-in-a-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Binary Search
 |  |
 | ------- |
