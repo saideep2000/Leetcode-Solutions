@@ -69,6 +69,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0747-min-cost-climbing-stairs](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [0985-bag-of-tokens](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
@@ -128,6 +129,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0215-kth-largest-element-in-an-array](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0985-bag-of-tokens](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Divide and Conquer
@@ -226,6 +228,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0344-reverse-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
+| [0985-bag-of-tokens](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Binary Search
 |  |
@@ -243,6 +246,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | ------- |
 | [0011-container-with-most-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0985-bag-of-tokens](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [2509-minimize-xor](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 ## Dynamic Programming
 |  |
