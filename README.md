@@ -116,6 +116,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0211-design-add-and-search-words-data-structure](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0424-longest-repeating-character-replacement](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1023-time-based-key-value-store](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Sorting
@@ -188,6 +189,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | ------- |
 | [0002-add-two-numbers](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0556-next-greater-element-iii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1642-water-bottles) |
 ## Simulation
@@ -221,6 +223,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0151-reverse-words-in-a-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Binary Search
 |  |
