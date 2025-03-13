@@ -1,17 +1,20 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        rem = collections.defaultdict()
-        i, j = 0, 0
-        substring = 0
-        substring_len = 0
-        while j < len(s):
-            if s[j] not in rem.keys():
-                rem[s[j]] = j
+        if len(s) == 0:
+            return 0
+        l = 1
+        i = 0
+        j = i + 1
+        # we will have a window from i to j
+        while i < len(s) and j <= len(s):
+            # print(s[i:j])
+            if j == len(s):
+                l = max(l, (j-i))
+                j = j + 1
+            elif s[j] in s[i:j]:
+                l = max(l, (j-i))
+                i = i + 1
+                j = i + 1
             else:
-                i = rem[s[j]] + 1
-                j = rem[s[j]]
-                rem = collections.defaultdict()
-            substring_len = j - i + 1
-            substring = max(substring_len, substring)
-            j = j + 1
-        return substring
+                j = j + 1
+        return l
