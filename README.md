@@ -93,6 +93,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0133-clone-graph](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0355-design-twitter) |
@@ -282,6 +283,7 @@ While this repository is primarily for my own use as I prepare for software engi
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0355-design-twitter](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0355-design-twitter) |
@@ -296,6 +298,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0138-copy-list-with-random-pointer](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0355-design-twitter) |
 ## Recursion
@@ -478,4 +481,8 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
