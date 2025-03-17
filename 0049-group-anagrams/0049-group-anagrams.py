@@ -1,9 +1,23 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        rem = {}
-        for i in strs:
-            if tuple(sorted(list(i))) in rem.keys():
-                rem[tuple(sorted(list(i)))].append(i)
+        hm = defaultdict(list)
+
+    
+        def get_key(s):
+            count = [0] * 26
+            for char in s:
+                count[ord(char) - ord('a')] += 1
+            return tuple(count)
+
+        
+
+        for each in strs:
+            key = get_key(each)
+            if key not in hm:
+                hm[key] = [each]
             else:
-                rem[tuple(sorted(list(i)))] = [i]
-        return rem.values()
+                temp = hm[key]
+                temp.append(each)
+                hm[key] = temp
+        
+        return list(hm.values())
