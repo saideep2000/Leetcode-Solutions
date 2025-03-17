@@ -13,11 +13,6 @@ class Solution:
 
         for each in strs:
             key = get_key(each)
-            if key not in hm:
-                hm[key] = [each]
-            else:
-                temp = hm[key]
-                temp.append(each)
-                hm[key] = temp
+            hm[key].append(each)
         
         return list(hm.values())
