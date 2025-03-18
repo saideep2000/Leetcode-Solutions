@@ -80,6 +80,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2792-neighboring-bitwise-xor](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0985-bag-of-tokens](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -156,6 +158,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0803-cheapest-flights-within-k-stops](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -193,6 +196,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [1036-rotting-oranges](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Math
 |  |
 | ------- |
@@ -255,6 +259,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0778-reorganize-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [0985-bag-of-tokens](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [2509-minimize-xor](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2509-minimize-xor) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
