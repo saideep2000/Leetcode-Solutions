@@ -1,20 +1,20 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        hm = {}
-        def dp(n):
-            if n < 0:
-                return 0
-            if 0 <= n <=1:
-                hm[n] = nums[n]
-                return nums[n]
-            ans = 0
-            for i in range(0,n-1):
-                if i not in hm:
-                    ans = max(ans, dp(i))
-                else:
-                    ans = max(ans, hm[i])
-            ans = ans + nums[n]
-            hm[n] = ans 
-            return ans
-        n = len(nums)
-        return max(dp(n-1), dp(n-2))
+        # In -> [11, 50, 100,  2, 2, 100, 11] -> Out
+        # In -> [0,   1,   2,  3, 4,   5,  6] -> Out
+
+
+
+        # maxRobbedAmount = [None, None, None, None, None, None, None, None]
+        maxRobbedAmount = [None for _ in range(len(nums) + 1)]
+
+        # N = 7
+        N = len(nums)
+
+        # maxRobbedAmount = [None, None, None, None, None, None, 11, 0]
+        maxRobbedAmount[N], maxRobbedAmount[N - 1] = 0, nums[N - 1]
+
+        for each in range(N-2, -1, -1):
+            maxRobbedAmount[each] = max(maxRobbedAmount[each + 1], maxRobbedAmount[each+2] + nums[each])
+        
+        return maxRobbedAmount[0]
