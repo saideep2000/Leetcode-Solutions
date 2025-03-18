@@ -5,33 +5,39 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        return Solution.rec(l1,l2,0)
-
-    def rec(l1,l2,carry):
-        if l1 == None and l2 == None:
-            if carry == 0:
-                return None
+        prev_val = 0
+        flag = 0
+        while l1 or l2 or prev_val:
+            if l1 != None and l2 != None:
+                temp = l1.val + l2.val + prev_val
+                l1 = l1.next
+                l2 = l2.next
+            elif l1 != None and l2 == None:
+                temp = l1.val + prev_val
+                l1 = l1.next
+            elif l1 == None and l2 != None:
+                temp = l2.val + prev_val
+                l2 = l2.next
             else:
-                return ListNode(carry,None)
+                temp = prev_val
+            
+            prev_val = 0
 
-        temp = None
-        if l1:
-            l1_val = l1.val
-            l1_next = l1.next
-        else:
-            l1_val = 0
-            l1_next = None
-        if l2:
-            l2_val = l2.val
-            l2_next = l2.next
-        else:
-            l2_val = 0
-            l2_next = None
+            # validating the sum and carry forward and add to the linkedlist
+            if temp >= 10:
+                prev_val = temp//10
+                now = temp%10
+            else:
+                now = temp
+            node = ListNode(now)
+            
+            if flag == 0:
+                head = node
+                flag = flag + 1
+                prev = node
+            else:
+                prev.next = node
+                prev = prev.next
+        
 
-        add = l1_val + l2_val + carry
-        if add/10 >= 1:
-            carry = 1
-            temp = ListNode(add % 10, Solution.rec(l1_next,l2_next,carry))
-        else:
-            temp = ListNode(add, Solution.rec(l1_next,l2_next,0))
-        return temp
+        return head
