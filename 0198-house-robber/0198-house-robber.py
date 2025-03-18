@@ -1,8 +1,5 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        # In -> [11, 50, 100,  2, 2, 100, 11] -> Out
-        # In -> [0,   1,   2,  3, 4,   5,  6] -> Out
-
     
         # N = 7
         N = len(nums)
