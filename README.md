@@ -81,6 +81,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2792-neighboring-bitwise-xor](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Hash Table
 |  |
@@ -139,6 +140,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0985-bag-of-tokens](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Divide and Conquer
 |  |
@@ -208,6 +210,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0556-next-greater-element-iii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1642-water-bottles) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 ## Simulation
 |  |
 | ------- |
@@ -254,6 +257,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0792-binary-search](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 ## Greedy
 |  |
 | ------- |
@@ -262,6 +266,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0778-reorganize-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [0985-bag-of-tokens](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [2509-minimize-xor](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2509-minimize-xor) |
+| [2919-maximum-number-of-groups-with-increasing-length](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Dynamic Programming
 |  |
