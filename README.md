@@ -73,6 +73,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0985-bag-of-tokens](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1127-last-stone-weight](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1396-count-servers-that-communicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1706-min-cost-to-connect-all-points](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
@@ -105,6 +106,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0621-task-scheduler](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 ## String
@@ -141,6 +143,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0778-reorganize-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [0985-bag-of-tokens](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
