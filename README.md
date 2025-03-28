@@ -77,6 +77,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [1127-last-stone-weight](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1396-count-servers-that-communicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1706-min-cost-to-connect-all-points](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1876-map-of-highest-peak](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1909-buildings-with-an-ocean-view](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -273,6 +274,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0621-task-scheduler](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [0985-bag-of-tokens](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2509-minimize-xor](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -298,11 +300,13 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0020-valid-parentheses](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1909-buildings-with-an-ocean-view](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1909-buildings-with-an-ocean-view](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 ## Sliding Window
 |  |
