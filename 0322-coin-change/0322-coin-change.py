@@ -24,4 +24,4 @@ class Solution:
                 hm[a] = steps
                 return steps
         
-        return dfs(sorted(coins), amount)
+        return dfs(coins, amount)
