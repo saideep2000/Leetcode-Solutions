@@ -33,10 +33,16 @@ class Trie:
         memo[index] = False
         return False
 
+    # word_break_dfs("leetcode", 0, {})
+
+
+
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
         trie = Trie()
         for word in wordDict:
             trie.insert_word(word)
         memo = {}
-        return trie.word_break_dfs(s, 0, memo)
+        res = trie.word_break_dfs(s, 0, memo)
+        print(memo)
+        return res
