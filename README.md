@@ -62,6 +62,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0215-kth-largest-element-in-an-array](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0286-walls-and-gates](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0286-walls-and-gates) |
+| [0300-longest-increasing-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -267,6 +268,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
@@ -295,6 +297,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0139-word-break](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
