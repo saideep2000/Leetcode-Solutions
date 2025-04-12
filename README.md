@@ -94,6 +94,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | ------- |
 | [0001-two-sum](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0049-group-anagrams) |
@@ -120,6 +121,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0049-group-anagrams) |
@@ -220,6 +222,7 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0556-next-greater-element-iii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
