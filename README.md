@@ -85,6 +85,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [1909-buildings-with-an-ocean-view](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
+| [2594-count-pairs-of-similar-strings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2792-neighboring-bitwise-xor](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3151-minimum-processing-time](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3151-minimum-processing-time) |
@@ -116,6 +117,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [1108-analyze-user-website-visit-pattern](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
+| [2594-count-pairs-of-similar-strings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 ## String
 |  |
 | ------- |
@@ -141,6 +143,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0778-reorganize-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2594-count-pairs-of-similar-strings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -192,6 +195,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0778-reorganize-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1396-count-servers-that-communicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2594-count-pairs-of-similar-strings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 ## Quickselect
 |  |
 | ------- |
@@ -492,6 +496,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0090-subsets-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [2509-minimize-xor](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2594-count-pairs-of-similar-strings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2792-neighboring-bitwise-xor](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 ## Brainteaser
 |  |
