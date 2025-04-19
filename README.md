@@ -44,6 +44,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0042-trapping-rain-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0079-word-search) |
@@ -215,6 +216,7 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
@@ -241,6 +243,7 @@ While this repository is primarily for my own use as I prepare for software engi
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1642-water-bottles) |
 ## Union Find
 |  |
