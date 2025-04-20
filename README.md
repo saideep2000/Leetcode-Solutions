@@ -73,6 +73,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0560-subarray-sum-equals-k](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0735-asteroid-collision](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -246,6 +247,7 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1642-water-bottles) |
 ## Union Find
 |  |
@@ -330,6 +332,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0020-valid-parentheses](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0735-asteroid-collision](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1909-buildings-with-an-ocean-view](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 ## Monotonic Stack
