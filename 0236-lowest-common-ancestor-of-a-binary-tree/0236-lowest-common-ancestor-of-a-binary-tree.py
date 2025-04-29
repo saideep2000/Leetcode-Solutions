@@ -33,7 +33,6 @@ class Solution:
             
             if x and y and answer is None:
                 answer = node
-            print(node.val, x, y)
             return x,y
 
 
