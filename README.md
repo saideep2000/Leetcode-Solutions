@@ -62,6 +62,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0200-number-of-islands](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0286-walls-and-gates](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -112,6 +113,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0141-linked-list-cycle](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -159,6 +161,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0049-group-anagrams](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0778-reorganize-string) |
