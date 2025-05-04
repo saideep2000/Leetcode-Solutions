@@ -1,9 +1,20 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        rem = {}
-        for i in nums:
-            if i in rem.keys():
-                rem[i] = rem[i] + 1
-            else:
-                rem[i] = 1
-        return [k for k,v in sorted(rem.items(), key=lambda item: item[1], reverse = True)][:k]
+
+        hm = defaultdict(int)
+
+        for i in range(len(nums)):
+            hm[nums[i]] = hm[nums[i]] + 1
+        
+        pq = []
+        
+        for num, times in hm.items():
+            heapq.heappush(pq, (-times, num))
+        
+        result = []
+        while len(result) != k :
+            times, num = heapq.heappop(pq)
+            result.append(num)
+        
+        return result
+
