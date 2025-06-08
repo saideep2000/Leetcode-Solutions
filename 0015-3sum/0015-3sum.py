@@ -1,24 +1,19 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        nums = sorted(nums)
-        f = []
-        rem = float('inf')
-        for k in range(0, len(nums)-2):
-            if nums[k] != rem:
-                i, j = k+1, len(nums) - 1
-                target = nums[k] * -1
-                while i<j:
-                    if nums[i] + nums[j] == target:
-                        f.append([nums[k], nums[i], nums[j]])
-                        i = i + 1
-                        j = j - 1
-                        while i<j and nums[i] == nums[i-1]:
-                            i = i + 1
-                    # if our number is too big bring down the right pointer down
-                    elif nums[i] + nums[j] > target:
-                        j = j - 1
-                    # or else bring the left one
+        nums = sorted(nums) # [-4, -1, -1, 0, 1, 2]
+        final = set()
+        for initial in range(0,len(nums)-2):
+            i, j = initial + 1, len(nums)-1
+            while i < j:
+                if nums[initial] + nums[i] + nums[j] > 0:
+                    j = j - 1
+                elif nums[initial] + nums[i] + nums[j] < 0:
+                    i = i + 1
+                else:
+                    final.add((nums[initial], nums[i], nums[j]))
+                    if nums[i] == nums[i+1]:
+                        while i < j and nums[i] == nums[i+1]:
+                                i = i + 1
                     else:
                         i = i + 1
-            rem = nums[k]
-        return f
+        return list(final)
