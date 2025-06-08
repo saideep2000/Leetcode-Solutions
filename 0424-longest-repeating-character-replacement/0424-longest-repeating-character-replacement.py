@@ -1,27 +1,23 @@
 class Solution:
+    def get_the_max(my_dict):
+        rem_count = 0
+        for i,j in my_dict.items():
+            if j > rem_count:
+                rem_count = j
+        return rem_count
+
     def characterReplacement(self, s: str, k: int) -> int:
-        """
+        rem_dict = defaultdict(int)
+        i = 0
+        long_rep_char_count = 0
+        for j in range(0,len(s)):
+            rem_dict[s[j]] = rem_dict[s[j]] + 1
 
-        """
-
-        def give_me_max(your_store):
-            max_store = 0
-            for k,v in your_store.items():
-                max_store = max(max_store,v)
-            return max_store
-
-        store = defaultdict(int)
-        left = right = 0
-        res = 0
-        for right, char in enumerate(s):
-            store[char] = store[char] + 1
-            curr_max_in_store = give_me_max(store)
-
-            while (right - left + 1) - curr_max_in_store > k:
-                store[s[left]] = store[s[left]] - 1
-                left = left + 1
-            res = max(res,(right - left + 1))
-
-        return res
-
-
+            max_char_count = Solution.get_the_max(rem_dict)
+            l = j - i + 1
+            if l - max_char_count <= k:
+                long_rep_char_count = max(long_rep_char_count, l)
+            else:
+                rem_dict[s[i]] = rem_dict[s[i]] - 1
+                i = i + 1
+        return long_rep_char_count
