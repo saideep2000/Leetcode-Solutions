@@ -1,17 +1,23 @@
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        l = 0
-        r = len(nums)-1
-        if l == r:
-            return nums[0]
-        while l <= r:
+        l, r = 0, len(nums) - 1
+        low_value = nums[0]
+
+        while l < r:
             m = (l+r)//2
-            if nums[m] < nums[m-1]:
-                return nums[m]
-            if nums[m] > nums[m+1]:
-                return nums[m+1]
-            if nums[m] < nums[-1]:
-                r = m - 1
-            if nums[m] > nums[-1]:
-                l = m + 1
-        return 0
+
+            low_value = min(low_value, nums[m])
+
+            if nums[l] < nums[m]:
+                if nums[m] < nums[r]:
+                    r = m - 1
+                else:
+                    l = m + 1
+            else:
+                if nums[m] < nums[r]:
+                    r = m - 1
+                else:
+                    l = m + 1
+        if l == r:
+            low_value = min(low_value, nums[l])
+        return low_value
