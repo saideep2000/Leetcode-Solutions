@@ -1,18 +1,20 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+        equivalent = {"(" : ")", "{" : "}", "[" : "]"}
         stack = []
-        pair = { "(" : ")" , "{" : "}" , "[" : "]" }
-        for i in range(0,len(s)):
-            if s[i] in pair.keys():
-                stack.append(s[i])
-            elif s[i] in pair.values():
-                if len(stack):
-                    if pair[stack[-1]] != s[i]:
+
+        for i in s:
+            if i in equivalent.keys():
+                stack.append(i)
+            else:
+                if len(stack) != 0:
+                    temp = stack.pop()
+                    if temp not in equivalent or equivalent[temp] != i:
                         return False
-                    else:
-                        stack.pop()
                 else:
                     return False
-        if len(stack):
+                
+        if len(stack) == 0:
+            return True
+        else:
             return False
-        return True
