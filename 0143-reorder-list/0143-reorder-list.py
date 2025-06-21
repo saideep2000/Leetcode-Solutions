@@ -5,32 +5,34 @@
 #         self.next = next
 class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:
-        slow = head
-        fast = slow.next
+        """
+        Do not return anything, modify head in-place instead.
+        """
+        slow, fast = head, head
 
-        # put the pointers to reverse 2nd half of list.
-        while fast and fast.next:
+        while fast.next and fast.next.next:
             slow = slow.next
-            fast = fast.next
-            if fast:
-                fast = fast.next
+            fast = fast.next.next
         
-        # reversing the 2nd half
-        s_head = slow.next
+        sec_half = slow.next
         slow.next = None
-        curr = None
-        while s_head:
-            temp = s_head.next
-            s_head.next = curr
-            curr = s_head
-            s_head = temp
+
+        right = None
+        while sec_half:
+            temp = sec_half.next
+            sec_half.next = right
+            right = sec_half
+            sec_half = temp
         
-        # let's merge
-        while head and curr:
-            temp = head.next
-            temp2 = curr.next
-            head.next = curr
-            curr.next = temp
-            curr = temp2
-            head = temp
-        return head
+        left = head
+
+        # merge
+        while right:
+            temp1 = left.next
+            temp2 = right.next
+
+            left.next = right
+            right.next = temp1
+
+            left = temp1
+            right = temp2
