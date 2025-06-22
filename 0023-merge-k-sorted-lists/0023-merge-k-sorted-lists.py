@@ -5,16 +5,27 @@
 #         self.next = next
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        rem = []
-        for i, node in enumerate(lists):
-            if node:
-                heapq.heappush(rem, (node.val, i, node))
-        final_head = ListNode(0)
-        current = final_head
-        while rem:
-            val, i, curr_node = heapq.heappop(rem)
-            current.next = curr_node
-            if curr_node.next != None:
-                heapq.heappush(rem, (curr_node.next.val, i, curr_node.next))
-            current = current.next
-        return final_head.next
+        if not lists:
+            return None
+
+        def mergeTwoSortedLists(a, b) -> ListNode:
+            dummy = ListNode(0)
+            start = dummy
+            while a and b:
+                if a.val <= b.val:
+                    dummy.next = a
+                    a = a.next
+                else:
+                    dummy.next = b
+                    b = b.next
+                dummy = dummy.next
+
+            dummy.next = a or b
+            return start.next
+        
+
+        result = lists[0]
+        for i in range(1, len(lists)):
+            result = mergeTwoSortedLists(result,lists[i])
+        
+        return result
