@@ -15,9 +15,6 @@ class Solution:
             found_l, lca_l = traverseTree(head.left)
             found_r, lca_r = traverseTree(head.right)
 
-            print("found_l & lca_l & ", head.val, found_l, lca_l)
-            print("found_r & lca_r & ", head.val, found_r, lca_r)
-
             if lca_l or lca_r:
                 if lca_l != None:
                     return (True, lca_l)
