@@ -258,6 +258,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0556-next-greater-element-iii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1642-water-bottles) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
@@ -591,4 +592,8 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 <!---LeetCode Topics End-->
