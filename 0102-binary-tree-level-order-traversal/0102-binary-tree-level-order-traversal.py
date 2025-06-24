@@ -6,18 +6,31 @@
 #         self.right = right
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        res = []
-        q = collections.deque()
-        q.append(root)
-        while q:
-            qlen = len(q)
-            level = []
-            for i in range(qlen):
-                temp = q.popleft()
-                if temp:
-                    level.append(temp.val)
-                    q.append(temp.left)
-                    q.append(temp.right)
-            if level:
-                res.append(level)
-        return res
+        # [[2,3], [4,5]] and [[1,0], [7,8]]
+        def merge2lists(l1, l2):
+            reverse = False
+            if len(l1) < len(l2):
+                l1, l2 = l2, l1
+                reverse = True
+            for i in range(len(l2)):
+                if l2[i] != []:
+                    if reverse:
+                        l1[i] = l2[i] + l1[i]
+                    else:
+                        l1[i].extend(l2[i])
+            
+            return l1
+
+        def traverseTree(head):
+            if head == None:
+                return []
+            l_left = traverseTree(head.left)
+            l_right = traverseTree(head.right)
+            temp = []
+            temp.append([head.val])
+            if l_left != [] or l_right != []:
+                temp.extend(merge2lists(l_left, l_right))
+            
+            return temp
+
+        return traverseTree(root)
