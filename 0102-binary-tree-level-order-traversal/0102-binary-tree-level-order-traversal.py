@@ -8,7 +8,7 @@ class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:  # Handle edge case
             return []
-            
+
         result = []
         store = deque([root])
 
@@ -21,7 +21,7 @@ class Solution:
                     temp.append(store[i].left)
                 if store[i].right != None:
                     temp.append(store[i].right)
-            store = temp
+            store = deque(temp)
             result.append(initial)
         return result
 
