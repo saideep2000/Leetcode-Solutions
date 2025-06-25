@@ -90,6 +90,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [1792-find-the-most-competitive-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1876-map-of-highest-peak](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1909-buildings-with-an-ocean-view](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1909-buildings-with-an-ocean-view) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
@@ -316,6 +317,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0907-koko-eating-bananas](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 ## Greedy
 |  |
