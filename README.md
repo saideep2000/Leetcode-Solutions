@@ -73,6 +73,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0417-pacific-atlantic-water-flow](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -125,6 +126,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0424-longest-repeating-character-replacement](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
@@ -176,6 +178,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0217-contains-duplicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [0985-bag-of-tokens](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
@@ -217,6 +220,7 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1396-count-servers-that-communicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -376,6 +380,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0076-minimum-window-substring](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Design
 |  |
 | ------- |
