@@ -1,35 +1,38 @@
-from collections import defaultdict
-class TrieNode:
+class TrieNode():
     def __init__(self):
+        self.end = False
         self.children = defaultdict(TrieNode)
-        self.ends = False
+
 class Trie:
+
     def __init__(self):
         self.root = TrieNode()
 
     def insert(self, word: str) -> None:
-        current = self.root
-        for c in word:
-            if c not in current.children:
-                current.children[c] = TrieNode()
-            current = current.children[c]
-        current.ends = True
+        head = self.root
+        for each in word:
+            if each not in head.children.keys():
+                head.children[each] = TrieNode()
+            head = head.children[each]
+        head.end = True
+
 
     def search(self, word: str) -> bool:
-        current = self.root
-        for c in word:
-            if c not in current.children:
+        head = self.root
+        for each in word:
+            if each not in head.children.keys():
                 return False
-            current = current.children[c]
-        return current.ends
-            
+            head = head.children[each]
+        if head.end == False:
+            return False
+        return True
 
     def startsWith(self, prefix: str) -> bool:
-        current = self.root
-        for c in prefix:
-            if c not in current.children:
+        head = self.root
+        for each in prefix:
+            if each not in head.children.keys():
                 return False
-            current = current.children[c]
+            head = head.children[each]
         return True
 
 
