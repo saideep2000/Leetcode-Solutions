@@ -167,6 +167,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2594-count-pairs-of-similar-strings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
+| [3617-find-the-original-typed-string-i](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
 |  |
