@@ -1,33 +1,29 @@
 class Solution:
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
-        m = len(heights)
-        n = len(heights[0])
-        pacific = set()
-        atlantic = set()
-        for i in range(0,m):
-            for j in range(0,n):
-                if i == 0 or j == 0:
-                    pacific.add((i,j))
-                if i == m-1 or j == n-1:
-                    atlantic.add((i,j))
-        con_pacific = set()
-        con_atlantic = set()
         moves = [(0,1), (0,-1), (1,0), (-1,0)]
+        m, n = len(heights), len(heights[0])
+        result = []
+        pac, atl = set(), set()
 
-        # this itreate through all possible elements it can reach and add it to the contribution set
-        def dfs(x,y, con):
-            con.add((x,y))
+        def dfs(x, y, visited, prev_height):
+            if x < 0 or x >= m or y < 0 or y >= n or (x,y) in visited or heights[x][y] < prev_height:
+                return
+            visited.add((x,y))
             for mx, my in moves:
-                if 0 <= x+mx < m and 0 <= y+my < n and heights[x+mx][y+my] >= heights[x][y] and (x+mx,y+my) not in con:
-                    dfs(x+mx, y+my, con)
-                
-
-        for px,py in pacific:
-            dfs(px,py,con_pacific)
-
-        for px,py in atlantic:
-            dfs(px,py,con_atlantic)
-            
-        common = con_pacific.intersection(con_atlantic)
-
-        return [i for i in common]
+                dfs(x+mx, y+my, visited, heights[x][y])
+        
+        # for the row = 0 & row = m-1
+        for col in range(n):
+            dfs(0, col, pac, 0)
+            dfs(m-1, col, atl, 0)
+        
+        # for the col = 0 & col = n-1
+        for row in range(m):
+            dfs(row, 0, pac, 0)
+            dfs(row, n-1, atl, 0)
+        
+        for i in range(m):
+            for j in range(n):
+                if (i,j) in pac and (i,j) in atl:
+                    result.append([i,j])
+        return result
