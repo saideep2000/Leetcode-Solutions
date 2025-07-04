@@ -270,6 +270,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [1642-water-bottles](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
 |  |
@@ -416,6 +417,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0021-merge-two-sorted-lists](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Tree
 |  |
 | ------- |
@@ -555,6 +557,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2594-count-pairs-of-similar-strings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2792-neighboring-bitwise-xor](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Brainteaser
 |  |
 | ------- |
