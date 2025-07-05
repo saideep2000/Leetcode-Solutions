@@ -1,22 +1,42 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        def check(i,j):
-            left, right = i, j
-            while left >= 0 and right < len(s) and s[left] == s[right]:
-                left = left - 1
-                right = right + 1
-            return right - left - 1
+        # so sub-problem is if a single string is palindrome then adding something either side is also a palindrome.
+        # a is palindrome then bab is also a palindrome
+        # dp(s[start:end]) is palindrome if dp(s[start-1:end:1]) is palindrome and s[start] == s[end]
 
-        ans = [0,0]
+        # dp[start][end] = (s[start] == s[end]) AND dp[start+1][end-1]
 
-        for each_position in range(len(s)):
-            odd_len = check(each_position, each_position)
-            if odd_len > (ans[1] - ans[0] + 1):
-                dist = odd_len // 2
-                ans = [each_position - dist, each_position + dist]
+        n = len(s)
+        dp = [[None] * n for _ in range(n)]
+        
+        # Base case: single characters
+        for i in range(n):
+            dp[i][i] = True
+
+
+        
+        def check(begin, finish):
+            if begin >= finish:
+                return True
+
+            if dp[begin][finish] != None:
+                return dp[begin][finish]
             
-            even_len = check(each_position, each_position + 1)
-            if even_len > (ans[1] - ans[0] + 1):
-                dist = (even_len // 2) - 1
-                ans = [each_position - dist, each_position + 1 + dist]
-        return s[ans[0]: ans[1]+1]
+            if s[begin] != s[finish]:
+                dp[begin][finish] = False
+            else:
+                dp[begin][finish] = check(begin+1, finish-1)
+
+            return dp[begin][finish]
+
+
+        # Check lengths from longest to shortest
+        for length in range(n, 0, -1):  # n, n-1, n-2, ..., 1
+            for start in range(n - length + 1):
+                end = start + length - 1
+                if check(start, end):
+                    return s[start:end+1]
+            
+        
+        return s[0]
+
