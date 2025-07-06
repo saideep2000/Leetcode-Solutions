@@ -263,6 +263,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | ------- |
 | [0002-add-two-numbers](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0556-next-greater-element-iii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
@@ -346,6 +347,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -616,4 +618,8 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [2202-sum-of-k-mirror-numbers](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
