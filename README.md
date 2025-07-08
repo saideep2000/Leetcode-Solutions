@@ -89,6 +89,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [1396-count-servers-that-communicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1706-min-cost-to-connect-all-points](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1909-buildings-with-an-ocean-view](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -187,6 +188,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3151-minimum-processing-time](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3151-minimum-processing-time) |
@@ -327,6 +329,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0907-koko-eating-bananas](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 ## Greedy
@@ -363,6 +366,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0747-min-cost-climbing-stairs](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Stack
