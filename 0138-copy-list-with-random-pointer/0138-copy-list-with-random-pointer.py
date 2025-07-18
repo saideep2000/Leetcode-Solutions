@@ -7,50 +7,39 @@ class Node:
         self.random = random
 """
 
-# Definition for a Node.
-class Node:
-    def __init__(self, x: int, next: 'Node' = None, random: 'Node' = None):
-        self.val = int(x)
-        self.next = next
-        self.random = random
+# for every node i will create the new duplicate and keep it in the dict
+# {old1: new1, old2: new2, ...}
 
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        # Dictionary to map original nodes to their corresponding copied nodes
-        h = {}
+        if head == None:
+            return None
+        # create the duplicates and store it the hashmap
+        hm = defaultdict()
 
-        # Start the recursion
-        temp, _ = self.rec(head, h)
-        
-        # After recursion completes, h contains all the node mappings
-        
-        # Assign the random pointers using the dictionary mapping
-        current = head
-        while current:
-            if current in h and current.random:
-                h[current].random = h[current.random]
-            current = current.next
+        temp = head
 
-        return temp
+        while temp:
+            hm[temp] = Node(temp.val)
+            temp = temp.next
+        
 
-    def rec(self, head, h):
-        # Base case: if head is None, return None
-        if not head:
-            return None, h
-        
-        # If the node has already been copied, return the copy from the dictionary
-        if head in h:
-            return h[head], h
-        
-        # Create a new copy of the current node
-        copy_node = Node(head.val)
-        
-        # Add the new node to the dictionary
-        h[head] = copy_node
+        # let's loop it out the linked list and attach the next and random for the new once
+        temp = head
 
-        # Recursively copy the next node
-        copy_node.next, h = self.rec(head.next, h)
+        while temp:
+            if temp.next == None:
+                hm[temp].next = None
+            else:
+                hm[temp].next = hm[temp.next]
+
+            if temp.random == None:
+                hm[temp].random = None
+            else:
+                hm[temp].random = hm[temp.random]
+
+            temp = temp.next
         
-        # Return the copy of the node and the updated dictionary
-        return copy_node, h
+        return hm[head]
+
 
