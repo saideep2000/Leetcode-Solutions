@@ -93,6 +93,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [1876-map-of-highest-peak](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1909-buildings-with-an-ocean-view](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
@@ -215,6 +216,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0803-cheapest-flights-within-k-stops](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Bucket Sort
 |  |
@@ -367,6 +369,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0803-cheapest-flights-within-k-stops](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Stack
