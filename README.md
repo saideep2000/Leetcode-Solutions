@@ -165,6 +165,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0647-palindromic-substrings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0778-reorganize-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
