@@ -89,6 +89,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [1396-count-servers-that-communicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1706-min-cost-to-connect-all-points](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1813-maximum-erasure-value](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1909-buildings-with-an-ocean-view](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1909-buildings-with-an-ocean-view) |
@@ -133,6 +134,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0778-reorganize-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1813-maximum-erasure-value](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2594-count-pairs-of-similar-strings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
@@ -396,6 +398,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0424-longest-repeating-character-replacement](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1813-maximum-erasure-value](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 ## Design
 |  |
 | ------- |
