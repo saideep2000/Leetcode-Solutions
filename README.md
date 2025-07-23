@@ -472,6 +472,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0332-reconstruct-itinerary](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -589,6 +590,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0210-course-schedule-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0332-reconstruct-itinerary](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -633,4 +635,8 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0062-unique-paths) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
