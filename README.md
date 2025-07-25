@@ -96,6 +96,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2594-count-pairs-of-similar-strings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
@@ -450,6 +451,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0572-subtree-of-another-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -482,6 +484,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0803-cheapest-flights-within-k-stops](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1396-count-servers-that-communicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -567,6 +570,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | ------- |
 | [0078-subsets](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2509-minimize-xor](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2594-count-pairs-of-similar-strings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
