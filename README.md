@@ -482,6 +482,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0695-max-area-of-island](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -508,6 +509,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0695-max-area-of-island](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -598,12 +600,14 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0684-redundant-connection](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1706-min-cost-to-connect-all-points](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 ## Shortest Path
 |  |
 | ------- |
