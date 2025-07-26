@@ -104,6 +104,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3151-minimum-processing-time](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3151-minimum-processing-time) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -249,6 +250,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0238-product-of-array-except-self](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Matrix
 |  |
 | ------- |
@@ -639,6 +641,7 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [2202-sum-of-k-mirror-numbers](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Combinatorics
 |  |
 | ------- |
@@ -647,4 +650,8 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
