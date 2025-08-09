@@ -83,6 +83,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0985-bag-of-tokens](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1127-last-stone-weight](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -249,6 +250,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Matrix
@@ -336,6 +338,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0792-binary-search](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1046-max-consecutive-ones-iii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -401,6 +404,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0424-longest-repeating-character-replacement](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1046-max-consecutive-ones-iii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1813-maximum-erasure-value](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 ## Design
 |  |
