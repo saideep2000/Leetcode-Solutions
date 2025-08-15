@@ -34,6 +34,7 @@ While this repository is primarily for my own use as I prepare for software engi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0031-next-permutation) |
@@ -203,6 +204,7 @@ While this repository is primarily for my own use as I prepare for software engi
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -329,6 +331,7 @@ While this repository is primarily for my own use as I prepare for software engi
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
