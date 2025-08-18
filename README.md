@@ -280,6 +280,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0062-unique-paths](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0441-arranging-coins](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0556-next-greater-element-iii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1642-water-bottles) |
@@ -338,6 +339,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0441-arranging-coins](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
