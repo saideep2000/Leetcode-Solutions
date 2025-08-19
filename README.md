@@ -99,6 +99,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2561-number-of-distinct-averages](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2594-count-pairs-of-similar-strings](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2594-count-pairs-of-similar-strings) |
@@ -285,6 +286,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
