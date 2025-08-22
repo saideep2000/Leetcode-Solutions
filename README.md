@@ -107,6 +107,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [2792-neighboring-bitwise-xor](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3151-minimum-processing-time](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3151-minimum-processing-time) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
@@ -276,6 +277,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1396-count-servers-that-communicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Math
 |  |
