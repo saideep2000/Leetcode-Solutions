@@ -294,6 +294,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [2202-sum-of-k-mirror-numbers](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/saideep2000/Leetcode-Solutions/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/saideep2000/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
