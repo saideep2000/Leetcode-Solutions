@@ -1,29 +1,50 @@
 class Solution:
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
-        moves = [(0,1), (0,-1), (1,0), (-1,0)]
-        m, n = len(heights), len(heights[0])
+        m = len(heights)
+        n = len(heights[0])
         result = []
-        pac, atl = set(), set()
 
-        def dfs(x, y, visited, prev_height):
-            if x < 0 or x >= m or y < 0 or y >= n or (x,y) in visited or heights[x][y] < prev_height:
-                return
-            visited.add((x,y))
+        moves = [[0,1], [1,0], [0,-1], [-1,0]]
+
+        storePacific = set()
+        storeAtlantic = set()
+
+        def dfsPacific(x, y):
+            nonlocal storePacific
+
+            storePacific.add((x,y))
+
             for mx, my in moves:
-                dfs(x+mx, y+my, visited, heights[x][y])
+                nx, ny = x+mx, y+my
+                if 0 <= nx < m and 0 <= ny < n and (nx, ny) not in storePacific and heights[x][y] <= heights[nx][ny]:
+                    dfsPacific(nx, ny)
         
-        # for the row = 0 & row = m-1
-        for col in range(n):
-            dfs(0, col, pac, 0)
-            dfs(m-1, col, atl, 0)
+        def dfsAtlantic(x, y):
+            nonlocal storeAtlantic
+
+            storeAtlantic.add((x,y))
+
+            for mx, my in moves:
+                nx, ny = x+mx, y+my
+                if 0 <= nx < m and 0 <= ny < n and (nx, ny) not in storeAtlantic and heights[x][y] <= heights[nx][ny]:
+                    dfsAtlantic(nx, ny)
         
-        # for the col = 0 & col = n-1
-        for row in range(m):
-            dfs(row, 0, pac, 0)
-            dfs(row, n-1, atl, 0)
-        
+        # let's itreate through the pacific
         for i in range(m):
             for j in range(n):
-                if (i,j) in pac and (i,j) in atl:
-                    result.append([i,j])
+                if i == 0 or j == 0:
+                    dfsPacific(i, j)
+
+        # let's itreate through the atlantic
+        for i in range(m):
+            for j in range(n):
+                if i == m-1 or j == n-1:
+                    dfsAtlantic(i, j)
+
+        
+        # itreate through 1 and see other 1
+        for x,y in storePacific:
+            if (x,y) in storeAtlantic:
+                result.append([x,y])
+
         return result
