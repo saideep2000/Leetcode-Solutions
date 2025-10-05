@@ -5,9 +5,7 @@ class Solution:
 
         while i < j:
             temp = min(height[i], height[j]) * (j-i)
-            
             final_max = max(final_max, temp)
-
             if height[i] > height[j]:
                 j = j - 1
             else:
