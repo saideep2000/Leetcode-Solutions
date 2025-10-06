@@ -81,6 +81,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0735-asteroid-collision](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0985-bag-of-tokens](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -226,6 +227,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0744-network-delay-time](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
@@ -275,6 +277,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0542-01-matrix](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1396-count-servers-that-communicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -316,6 +319,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0684-redundant-connection](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1396-count-servers-that-communicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1706-min-cost-to-connect-all-points](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Two Pointers
@@ -352,6 +356,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0300-longest-increasing-subsequence](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -507,6 +512,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0695-max-area-of-island](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -537,6 +543,7 @@ While this repository is primarily for my own use as I prepare for software engi
 | [0695-max-area-of-island](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/saideep2000/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/saideep2000/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
